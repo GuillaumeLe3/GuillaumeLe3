@@ -1,4 +1,5 @@
 ## Hi there 👋
+![11](https://github.com/user-attachments/assets/bfc67631-286d-4afd-bbe4-071ba29e8500)
 
 <!--
 **GuillaumeLe3/GuillaumeLe3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
